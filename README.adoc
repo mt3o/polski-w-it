@@ -683,6 +683,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 | trigerować
 | wyzwalać
 
+| tuple
+| tupla, tapla
+| krotka
+
 | unit test
 |
 | test jednostkowy
